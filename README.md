@@ -1,5 +1,5 @@
-State-of-the-art Seminar
-Title:- Handwritten Text Recognition, Analysis and Generation
+# State-of-the-art Seminar <br>
+Title:- Handwritten Text Recognition, Analysis and Generation <br>
 Gyan Prabhat
 Supervisor: Dr. Anand Mishra
 
