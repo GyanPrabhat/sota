@@ -1,7 +1,7 @@
 # State-of-the-art Seminar <br>
 **_Title_** :- Handwritten Text Recognition, Analysis and Generation <br>
-Gyan Prabhat
-**Supervisor**: Dr. Anand Mishra
+**_By_** : Gyan Prabhat
+**__Supervisor__**: [Dr. Anand Mishra](https://anandmishra22.github.io/)
 
 **Resources**
 - Short Presentation - [Link]()
