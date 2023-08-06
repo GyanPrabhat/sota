@@ -11,7 +11,7 @@
 
 
 ### Reference Papers
-[@bank2020autoencoders]
+\cite{bank2020autoencoders}
 
 
 [Contact : Gyan Prabhat](prabhat.1@iitj.ac.in)
