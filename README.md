@@ -1,7 +1,7 @@
 # State-of-the-art Seminar <br>
 ## **_Title_** : Handwritten Text Recognition, Analysis and Generation
 ### **_By_** : Gyan Prabhat
-### **__Supervisor__**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
+### **Supervisor**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
 
 #### Overview
 We are in the era of Generative Artifical Intelligence (AI). With the paradigm shift of just looking for the patterns in the data, we have took a step forward where want to generate brand new data instances based on the patetterns we have learnt from the given data. Deep Generative Modelling can be considered as a particular subset of Deep Learning where the end objective is always to generate brand new data. 
