@@ -10,10 +10,18 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 - Short Presentation - [Link]()
 - Detailed Report - [Link]()
 
-### Tutoral
+### Tutoral Plan
+
+1. Introduction
+- Machine Learning Paradigm
+- Discriminative Model
+- Generative Model
+2. Autoencoders
+3. Varational Autoencoders
+4. GAN
 
 
-#### Overview
+
 
 
 ### Reference Papers
