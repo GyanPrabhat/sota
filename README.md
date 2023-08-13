@@ -29,9 +29,9 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
    * Architecture
 5. Evaluation of Generative Models
    * Know the Ground Truth
-    - MSE (Mean Squared Error)
-    - PSNR (Peak Signal to Noise Ratio)
-    - SSIM (Structural Similarity)
+       * MSE (Mean Squared Error)
+       * PSNR (Peak Signal to Noise Ratio)
+       * SSIM (Structural Similarity)
    * Unknown Ground Truth
      - IS (Inception Score)
      - FID (Fréchet Inception Distance)
