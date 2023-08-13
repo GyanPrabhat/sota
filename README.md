@@ -14,25 +14,25 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 
 ### Tutoral Plan
 1. Introduction
-- Machine Learning Paradigm
-- Discriminative Model
-- Generative Model
-- Why Generative Model
+   * Machine Learning Paradigm
+   * Discriminative Model
+   * Generative Model
+   * Why Generative Model
 2. Autoencoders
-  - Introduction
-  - Architecture
+   * Introduction
+   * Architecture
 3. Varational Autoencoders
-  - Introduction
-  - Architecture
+   * Introduction
+   * Architecture
 4. Generative adversarial networks (GAN)
-  - Introduction
-  - Architecture
+   * Introduction
+   * Architecture
 5. Evaluation of Generative Models
-  - Know the Ground Truth
+   * Know the Ground Truth
     - MSE (Mean Squared Error)
     - PSNR (Peak Signal to Noise Ratio)
     - SSIM (Structural Similarity)
-  - Unknown Ground Truth
+   * Unknown Ground Truth
      - IS (Inception Score)
      - FID (Fréchet Inception Distance)
      - KID (Kernel Inception Distance)
