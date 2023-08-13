@@ -1,5 +1,5 @@
-# State-of-the-art Seminar <br>
-## **_Title_** : Handwritten Text Recognition, Analysis and Generation
+![image](https://github.com/GyanPrabhat/sota/assets/35598210/37067ddb-786c-4519-9997-492e18303250)# State-of-the-art Seminar <br>
+## **_Title_** : Generative AI : An Overview
 ### **_By_** : Gyan Prabhat
 ### **Supervisor**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
 
@@ -16,12 +16,27 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 - Machine Learning Paradigm
 - Discriminative Model
 - Generative Model
+- Why Generative Model
 2. Autoencoders
+  - Introduction
+  - Architecture
 3. Varational Autoencoders
-4. GAN
-
-
-
+  - Introduction
+  - Architecture
+4. Generative adversarial networks (GAN)
+  - Introduction
+  - Architecture
+5. Evaluation of Generative Models
+  - Know the Ground Truth
+    - MSE (Mean Squared Error)
+    - PSNR (Peak Signal to Noise Ratio)
+    - SSIM (Structural Similarity)
+  
+  - Unknown Ground Truth
+     - IS (Inception Score)
+     - FID (Fréchet Inception Distance)
+     - KID (Kernel Inception Distance)
+     - LPIPS
 
 
 ### Reference Papers
