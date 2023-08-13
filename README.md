@@ -1,6 +1,6 @@
 # State-of-the-art Seminar
 
-## **_Title_** : Generative AI : An Overview
+## \textcolor{blue}{Title} : Generative AI : An Overview
 
 ### **_By_** : Gyan Prabhat
 ### **Supervisor**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
