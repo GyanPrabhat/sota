@@ -1,5 +1,7 @@
-![image](https://github.com/GyanPrabhat/sota/assets/35598210/37067ddb-786c-4519-9997-492e18303250)# State-of-the-art Seminar <br>
+# State-of-the-art Seminar
+
 ## **_Title_** : Generative AI : An Overview
+
 ### **_By_** : Gyan Prabhat
 ### **Supervisor**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
 
@@ -11,7 +13,6 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 - Detailed Report - [Link]()
 
 ### Tutoral Plan
-
 1. Introduction
 - Machine Learning Paradigm
 - Discriminative Model
@@ -31,13 +32,11 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
     - MSE (Mean Squared Error)
     - PSNR (Peak Signal to Noise Ratio)
     - SSIM (Structural Similarity)
-  
   - Unknown Ground Truth
      - IS (Inception Score)
      - FID (Fréchet Inception Distance)
      - KID (Kernel Inception Distance)
      - LPIPS
-
 
 ### Reference Papers
 \cite{Bank et al., [Autoencoders](https://arxiv.org/pdf/2003.05991.pdf)}
