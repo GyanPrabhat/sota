@@ -15,15 +15,21 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 ### Tutoral Plan
 1. Introduction
    * Machine Learning Paradigm
-   * Discriminative Model
-   * Generative Model
-   * Why Generative Model
+   * Discriminative Models
+   * Generative Models
+   * Why Generative Models ?
+       - Debaising
+       - Outlier detection
 2. Autoencoders
    * Introduction
    * Architecture
+   * Loss
+   * Dimensionality Reduction
+   * Under/Over complete Autoencoders
 3. Varational Autoencoders
    * Introduction
    * Architecture
+   * Loss
 4. Generative adversarial networks (GAN)
    * Introduction
    * Architecture
@@ -37,6 +43,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
      - FID (Fréchet Inception Distance)
      - KID (Kernel Inception Distance)
      - LPIPS
+   * Human Evaluation
 
 ### Reference Papers
 \cite{Bank et al., [Autoencoders](https://arxiv.org/pdf/2003.05991.pdf)}
@@ -44,3 +51,5 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 
 
 [Contact : Gyan Prabhat](prabhat.1@iitj.ac.in)
+
+
