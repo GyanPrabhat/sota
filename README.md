@@ -33,7 +33,10 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 4. Generative adversarial networks (GAN)
    * Introduction
    * Architecture
-5. Evaluation of Generative Models
+5. Diffusion Models
+   * Introduction
+   * Architecture
+6. Evaluation of Generative Models
    * Know the Ground Truth
        * MSE (Mean Squared Error)
        * PSNR (Peak Signal to Noise Ratio)
@@ -44,6 +47,9 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
      - KID (Kernel Inception Distance)
      - LPIPS
    * Human Evaluation
+  7. Hands-on
+     * Autoencdoers
+     * GAN
 
 ### Reference Papers
 \cite{Bank et al., [Autoencoders](https://arxiv.org/pdf/2003.05991.pdf)}
