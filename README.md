@@ -13,7 +13,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
 - Detailed Report - [Link]()
 
 ### Tutoral Plan
-1. Introduction
+1. **Introduction**
    * Machine Learning Paradigm
      - Supervised vs Unsupervised Models
    * Discriminative Models
@@ -21,7 +21,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
    * Why Generative Models ?
        - Debaising
        - Outlier detection
-2. Autoencoders
+2. **Autoencoders**
    * Introduction
    * Latent Space
    * Architecture
@@ -31,7 +31,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
      - Dimensionality Reduction
    * Takeaways
    * Generation
-3. Varational Autoencoders
+3. **Varational Autoencoders**
    * Introduction
    * Tradational vs Varatinal Autoencoders
    * Architecture
@@ -40,7 +40,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
    * Loss Function
      - Reconstruction Loss
      - Regularization Loss
-4. Generative adversarial networks (GAN)
+4. **Generative adversarial networks (GAN)**
    * Introduction
      - Issues
      - Ideas
@@ -50,7 +50,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
    * Training
      - Min-Max Game
      - Gradinet Updates
-5. Diffusion Models
+5. **Diffusion Models**
    * Introduction
      - What is Diffusion?
      - Diffusion in AI
@@ -61,7 +61,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
        - Forward Noising
        - Reverse Denoising
      - Sampling brand new Generations
-6. Evaluation of Generative Models
+6. **Evaluation of Generative Models**
    * Know the Ground Truth
      - MSE (Mean Squared Error)
      - PSNR (Peak Signal to Noise Ratio)
@@ -72,7 +72,7 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
      - KID (Kernel Inception Distance)
      - LPIPS
    * Human Evaluation
-  7. Hands-on
+  7. **Hands-on**
      * Autoencdoers
      * GAN
 
