@@ -6,7 +6,7 @@
 ### **Supervisor**: [Dr. Anand Mishra](https://anandmishra22.github.io/) <br>
 
 #### Overview
-We are in the era of Generative Artifical Intelligence (AI). With the paradigm shift of just looking for the patterns in the data, we have took a step forward where want to generate brand new data instances based on the patetterns we have learnt from the given data. Deep Generative Modelling can be considered as a particular subset of Deep Learning where the end objective is always to generate brand new data. 
+We are in the era of Generative Artifical Intelligence (AI). With the paradigm shift of just looking for the patterns in the data, we have took a step forward where we want to generate brand new data instances based on the patterns we have learnt from the given data. Deep Generative Modelling can be considered as a particular subset of Deep Learning where the end objective is to generate brand new data instances. These are typically unsupervised learning methods, where we are provided with the training data X which is coming from a probability distribution p_{data}(x). However, we have no knowledge whatsoever about the data generating distribution. What we want to learn is a p_{model}(x), such that the learn distribution is as close as possible to the original data distribtuion. If we are able to do that, then we can use the learnt distribtuion to sample new data instances.
 
 ### **Resources**
 - Short Presentation - [Link]()
@@ -70,7 +70,6 @@ We are in the era of Generative Artifical Intelligence (AI). With the paradigm s
      - IS (Inception Score)
      - FID (Fréchet Inception Distance)
      - KID (Kernel Inception Distance)
-     - LPIPS
    * Human Evaluation
   7. **Hands-on**
      * Autoencdoers
